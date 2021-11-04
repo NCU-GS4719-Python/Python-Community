@@ -10,7 +10,7 @@
     1. [Text Sequence Type](materials/type_text_sequence.md)
     1. [Binary Sequence Types](materials/type_binary_sequence.md)
     1. [Set Types](materials/type_set.md)
-    1. [Mapping Types](materials/type_map.md)
+    1. [Mapping Types](materials/type_mapping.md)
 1. 程式撰寫風格
 1. 流程控制
 1. 函數
