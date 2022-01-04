@@ -24,3 +24,4 @@
 
 # 技術文章
 1. [Python的字串處理](article/001_string.md)
+2. [Python程式風格規範（PEP8）](article/002_PEP8.md)
