@@ -17,7 +17,8 @@
 1. 螢幕I/O
 1. 檔案I/O
 1. 異常處理
-1. 模組
+1. [模組](materials/module.md)
+    1. [正規表達式](materials/module_re.md)
 1. 類別
 
 
