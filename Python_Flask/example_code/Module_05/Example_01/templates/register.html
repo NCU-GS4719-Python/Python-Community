@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block title %}
+註冊會員
+{% endblock title %}
+
+{% block message %}
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <form action="{{ url_for('register') }}" method="POST">
+        <div class="mb-3">
+          <label for="InputUsername" class="form-label">Username</label>
+          <input type="text" name="username" class="form-control" id="InputUsername" value="{{ username }}">
+        </div>
+        <div class="mb-3">
+          <label for="InputEmail1" class="form-label">Email address</label>
+          <input type="email" name="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" value="{{ email }}">
+        </div>
+        <div class="mb-3">
+          <label for="InputPassword1" class="form-label">Password</label>
+          <input type="password" name='password1' class="form-control" id="InputPassword1">
+        </div>
+        <div class="mb-3">
+          <label for="InputPassword2" class="form-label">Retype Password</label>
+          <input type="password" name='password2' class="form-control" id="InputPassword2">
+        </div>
+        <input type="submit" class="btn btn-primary" value="Register">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+
+{% endblock message %}
