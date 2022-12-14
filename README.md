@@ -12,4 +12,4 @@
 
 
 ## 📢 前端學習
-1. [Javascript學習影片(AndysTV曾郁翔，共65集)](https://www.youtube.com/watch?v=V_Oj6uuxN9o&list=PL1aVa65WLc51f75ppMNLqkOJxWY8dB0dK&ab_channel=%E5%AE%89%E8%BF%AATV%23AndysTV-%E7%A8%8B%E5%BC%8F%2C%E7%A7%91%E6%8A%80%2C%E8%BB%9F%E7%B6%B2)
+1. [Javascript學習影片(AndysTV，共65集)](https://www.youtube.com/watch?v=V_Oj6uuxN9o&list=PL1aVa65WLc51f75ppMNLqkOJxWY8dB0dK&ab_channel=%E5%AE%89%E8%BF%AATV%23AndysTV-%E7%A8%8B%E5%BC%8F%2C%E7%A7%91%E6%8A%80%2C%E8%BB%9F%E7%B6%B2)
